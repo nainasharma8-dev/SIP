@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/nainasharma/AndroidStudioProjects/SIP/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "18,19,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "663,709,775",
+                        "endColumns": "45,65,37",
+                        "endOffsets": "704,770,808"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,167",
+                        "endColumns": "45,65,37",
+                        "endOffsets": "96,162,200"
+                    }
+                }
+            ]
+        }
+    ]
+}

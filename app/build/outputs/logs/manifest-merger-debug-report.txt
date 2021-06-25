@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:18:1-44:12
+INJECTED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:18:1-44:12
+INJECTED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:18:1-44:12
+	package
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:19:11-44
+		INJECTED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:20:5-32:19
+	android:label
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:20:48-71
+	android:icon
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:20:18-47
+activity#com.example.android.sip.WalkieTalkieActivity
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:21:7-27:20
+	android:configChanges
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:22:11-61
+	android:name
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:21:17-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.example.android.sip.SipSettings
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:28:9-80
+	android:label
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:28:47-78
+	android:name
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:28:19-46
+receiver#com.example.android.sip.IncomingCallReceiver
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:31:9-87
+	android:label
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:31:56-85
+	android:name
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:31:19-55
+uses-sdk
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:33:5-43
+INJECTED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:33:5-43
+INJECTED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:33:5-43
+INJECTED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:33:5-43
+INJECTED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:33:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:33:5-43
+		INJECTED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:33:15-40
+		INJECTED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.USE_SIP
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:34:5-66
+	android:name
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:34:22-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:35:5-67
+	android:name
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:35:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:36:5-66
+	android:name
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:36:22-63
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:37:5-76
+	android:name
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:37:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:38:5-68
+	android:name
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:38:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:39:5-71
+	android:name
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:39:22-68
+uses-feature#android.hardware.sip.voip
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:41:5-86
+	android:required
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:41:60-83
+	android:name
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:41:19-59
+uses-feature#android.hardware.wifi
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:42:5-82
+	android:required
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:42:56-79
+	android:name
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:42:19-55
+uses-feature#android.hardware.microphone
+ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:43:5-88
+	android:required
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:43:62-85
+	android:name
+		ADDED from /Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:43:19-61

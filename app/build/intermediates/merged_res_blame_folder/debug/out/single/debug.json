@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/nainasharma/AndroidStudioProjects/SIP/app/build/intermediates/res/merged/debug/layout_walkietalkie.xml.flat",
+        "source": "/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/res/layout/walkietalkie.xml"
+    },
+    {
+        "merged": "/Users/nainasharma/AndroidStudioProjects/SIP/app/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/nainasharma/AndroidStudioProjects/SIP/app/build/intermediates/res/merged/debug/layout_call_address_dialog.xml.flat",
+        "source": "/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/res/layout/call_address_dialog.xml"
+    },
+    {
+        "merged": "/Users/nainasharma/AndroidStudioProjects/SIP/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/nainasharma/AndroidStudioProjects/SIP/app/build/intermediates/res/merged/debug/drawable_btn_speak_normal.png.flat",
+        "source": "/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/res/drawable/btn_speak_normal.png"
+    },
+    {
+        "merged": "/Users/nainasharma/AndroidStudioProjects/SIP/app/build/intermediates/res/merged/debug/drawable_btn_speak_pressed.png.flat",
+        "source": "/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/res/drawable/btn_speak_pressed.png"
+    },
+    {
+        "merged": "/Users/nainasharma/AndroidStudioProjects/SIP/app/build/intermediates/res/merged/debug/drawable_btn_record.xml.flat",
+        "source": "/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/res/drawable/btn_record.xml"
+    },
+    {
+        "merged": "/Users/nainasharma/AndroidStudioProjects/SIP/app/build/intermediates/res/merged/debug/drawable_btn_speak_selected.png.flat",
+        "source": "/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/res/drawable/btn_speak_selected.png"
+    }
+]

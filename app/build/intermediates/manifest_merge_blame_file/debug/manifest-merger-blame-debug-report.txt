@@ -1,0 +1,105 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  Copyright (C) 2010 The Android Open Source Project
+4
+5  Licensed under the Apache License, Version 2.0 (the "License");
+6  you may not use this file except in compliance with the License.
+7  You may obtain a copy of the License at
+8
+9       http://www.apache.org/licenses/LICENSE-2.0
+10
+11  Unless required by applicable law or agreed to in writing, software
+12  distributed under the License is distributed on an "AS IS" BASIS,
+13  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  See the License for the specific language governing permissions and
+15  limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.sip" >
+19
+20    <uses-sdk
+20-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:33:5-43
+21        android:minSdkVersion="9"
+21-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:33:15-40
+22        android:targetSdkVersion="9" />
+22-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:33:5-43
+23
+24    <uses-permission android:name="android.permission.USE_SIP" />
+24-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:34:5-66
+24-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:34:22-63
+25    <uses-permission android:name="android.permission.INTERNET" />
+25-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:35:5-67
+25-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:35:22-64
+26    <uses-permission android:name="android.permission.VIBRATE" />
+26-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:36:5-66
+26-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:36:22-63
+27    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+27-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:37:5-76
+27-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:37:22-73
+28    <uses-permission android:name="android.permission.WAKE_LOCK" />
+28-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:38:5-68
+28-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:38:22-65
+29    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+29-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:39:5-71
+29-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:39:22-68
+30
+31    <uses-feature
+31-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:41:5-86
+32        android:name="android.hardware.sip.voip"
+32-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:41:19-59
+33        android:required="true" />
+33-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:41:60-83
+34    <uses-feature
+34-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:42:5-82
+35        android:name="android.hardware.wifi"
+35-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:42:19-55
+36        android:required="true" />
+36-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:42:56-79
+37    <uses-feature
+37-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:43:5-88
+38        android:name="android.hardware.microphone"
+38-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:43:19-61
+39        android:required="true" />
+39-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:43:62-85
+40
+41    <application
+41-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:20:5-32:19
+42        android:debuggable="true"
+43        android:icon="@drawable/icon"
+43-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:20:18-47
+44        android:label="SipDemo"
+44-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:20:48-71
+45        android:testOnly="true" >
+46        <activity
+46-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:21:7-27:20
+47            android:name="com.example.android.sip.WalkieTalkieActivity"
+47-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:21:17-53
+48            android:configChanges="orientation|keyboardHidden" >
+48-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:22:11-61
+49            <intent-filter>
+49-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:23:13-26:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:24:17-68
+50-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:24:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:25:17-76
+52-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:25:27-74
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:28:9-80
+56            android:name="com.example.android.sip.SipSettings"
+56-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:28:19-46
+57            android:label="set_preferences" />
+57-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:28:47-78
+58
+59        <receiver
+59-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:31:9-87
+60            android:name="com.example.android.sip.IncomingCallReceiver"
+60-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:31:19-55
+61            android:label="Call Receiver" />
+61-->/Users/nainasharma/AndroidStudioProjects/SIP/app/src/main/AndroidManifest.xml:31:56-85
+62    </application>
+63
+64</manifest>

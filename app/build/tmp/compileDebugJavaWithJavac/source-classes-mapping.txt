@@ -1,0 +1,16 @@
+com/example/android/sip/SipSettings.java
+ com.example.android.sip.SipSettings
+com/example/android/sip/BuildConfig.java
+ com.example.android.sip.BuildConfig
+com/example/android/sip/WalkieTalkieActivity.java
+ com.example.android.sip.WalkieTalkieActivity
+ com.example.android.sip.WalkieTalkieActivity$1
+ com.example.android.sip.WalkieTalkieActivity$2
+ com.example.android.sip.WalkieTalkieActivity$3
+ com.example.android.sip.WalkieTalkieActivity$4
+ com.example.android.sip.WalkieTalkieActivity$5
+ com.example.android.sip.WalkieTalkieActivity$6
+ com.example.android.sip.WalkieTalkieActivity$7
+com/example/android/sip/IncomingCallReceiver.java
+ com.example.android.sip.IncomingCallReceiver
+ com.example.android.sip.IncomingCallReceiver$1
